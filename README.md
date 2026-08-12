@@ -10,5 +10,5 @@
 
 ⚡ Follow me: 
 - 🌐 [GitHub](https://github.com/Samirjon018)
-- 📸 [Instagram](https://instagram.com/@s4mir.15)
+- 📸 [Instagram](https://instagram.com/s4mir.15)
 👨‍ Check me out and let's build something awesome together!

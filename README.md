@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently learning IT & Frontend Web Development.
 - 💻 Passionate about building interactive, clean, and responsive web applications.
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Next.js, Python,**
 - 📫 How to reach me: **abdurakhimov.069@gmail.com** 
 
 ---

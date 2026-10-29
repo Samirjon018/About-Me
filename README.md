@@ -12,7 +12,7 @@
 - 🔭 I’m currently learning IT & Frontend Web Development.
 - 💻 Passionate about building interactive, clean, and responsive web applications.
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: **samirjonabdurakhimov@gmail.com** *(yoki o'z e-pochtangiz)*
+- 📫 How to reach me: **abdurakhimov.069@gmail.com** 
 
 ---
 

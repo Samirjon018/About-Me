@@ -21,7 +21,7 @@ Mana mening ishlab chiqqan va jonli efirga uzatilgan loyihalarim:
 
 - 🍕 **[Oqtepa Lavash](https://oqtepa-lavash-seven.vercel.app/)** — Oqtepa Lavash veb-saytining frontend nusxasi.
 - 📈 **[Apex Trading](https://apex-five-psi.vercel.app/)** — Interaktiv interfeysli va GSAP ilovalariga ega trading platformasi.
-- 📁 **[First Portfolio](https://github.com/Samirjon018/First-Protofoilo)** — Shaxsiy portfolio loyiham.
+- 📁 **[First Portfolio](https://samirjon-protofoilo.vercel.app)** — Shaxsiy portfolio loyiham.
 
 ---
 

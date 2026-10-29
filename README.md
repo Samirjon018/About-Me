@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/Samirjon018">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Frontend+Developer;Passionate+about+UI%2FUX;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Web+Developer;Passionate+about+UI%2FUX;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 

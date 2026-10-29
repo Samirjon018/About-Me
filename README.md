@@ -46,11 +46,3 @@ Mana mening ishlab chiqqan va jonli efirga uzatilgan loyihalarim:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samirjon018&show_icons=true&theme=tokyonight" alt="Samirjon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirjon018&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
